@@ -6,7 +6,7 @@
 
 -->
 
-**Visitor Count**
+### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/AyushiPanth/count.svg)
 ### <div align="center">Hi, I'm Ayushi, a sophomore at IIIT Lucknow, India. 🚀</div>
 
@@ -16,7 +16,7 @@
 </p>
 
 
-**What I'm upto...**
+### What I'm upto...
 - 🌱 I’m currently focusing on **FLutter and DSA**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/xNetcat?tab=repositories)
@@ -35,7 +35,7 @@
 </p>
 
 
-**🐱 My Github Data** 
+## 🐱 My Github Data
 
 > 🏆 190 Contributions in the Year 2020
  > 
@@ -43,7 +43,7 @@
  > 
 > 🔑 2 Private Repositories 
 
-**Skills**
+### Skills
 
 <code><img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -59,10 +59,10 @@
 ### Reach me
 
 <p align="center">
-      <a padding:75px href="https://www.linkedin.com/in/ayushi-panth-a20463197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/linkedin.svg" alt="LinkedIn" height="32" width="32" /></a>
-      <a padding:75px href="mailto:ayushipanth123a@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/gmail.svg" alt="gmail" height="32" width="32" /></a>
-    <a padding:75px href="https://www.facebook.com/ayushi.panth.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/facebook.svg" alt="facebook" height="32" width="32" /></a>
-    <a padding:75px href="https://leetcode.com/ayushipanth/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/leetcode.svg" alt="leetcode" height="32" width="32" /></a>
-  <a padding:75px href="https://ayushipanth.medium.com/" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/medium+icon-1320186682844050412.png" alt="Medium" height="32" width="32" /></a>
+      <a padding:75px href="https://www.linkedin.com/in/ayushi-panth-a20463197/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/linkedin.svg" alt="LinkedIn" height="32" width="32" /></a>
+      <a padding:75px href="mailto:ayushipanth123a@gmail.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/gmail.svg" alt="gmail" height="32" width="32" /></a>
+    <a padding:75px href="https://www.facebook.com/ayushi.panth.3" target="blank"><img align="left" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/facebook.svg" alt="facebook" height="32" width="32" /></a>
+    <a padding:75px href="https://leetcode.com/ayushipanth/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/leetcode.svg" alt="leetcode" height="32" width="32" /></a>
+  <a padding:75px href="https://ayushipanth.medium.com/" target="blank"><img align="left" src="https://icons-for-free.com/iconfiles/png/512/medium+icon-1320186682844050412.png" alt="Medium" height="32" width="32" /></a>
 
 </p>

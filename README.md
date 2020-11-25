@@ -8,7 +8,7 @@
 
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/AyushiPanth/count.svg)
-### <div align="center">Hi, I'm Ayushi, a sophomore at IIIT Lucknow, India. 🚀</div>
+### <div align="center">Hi, I'm Ayushi Panth, a sophomore at IIIT Lucknow, India. 🚀</div>
 
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 > 🏆 190 Contributions in the Year 2020
  > 
-> 📜 49 Public Repositories
+> 📜 48 Public Repositories
  > 
 > 🔑 2 Private Repositories 
 

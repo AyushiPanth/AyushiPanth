@@ -37,9 +37,9 @@
 
 ## 🐱 My Github Data
 
-> 🏆 190 Contributions in the Year 2020
+> 🏆 Total 282 Contributions
  > 
-> 📜 48 Public Repositories
+> 📜 51 Public Repositories
  > 
 > 🔑 2 Private Repositories 
 

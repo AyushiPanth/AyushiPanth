@@ -30,9 +30,10 @@
 ### Stats
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=AyushiPanth&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" alt="GitHub stats"  width="50%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiPanth&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" alt="Most used Languages" width="42%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AyushiPanth&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub stats"  width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiPanth&layout=compact&theme=radical" alt="Most used Languages" width="42%" />
 </p>
+
 
 
 ## 🐱 My Github Data

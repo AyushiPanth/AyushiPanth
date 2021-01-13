@@ -19,7 +19,7 @@
 ### What I'm upto...
 - 🌱 I’m currently focusing on **FLutter and DSA**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/xNetcat?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AyushiPanth?tab=repositories)
 
 - Visit my [Portfolio](https://portfolios.talentsprint.com/~ayushi_panth) to know more
 
@@ -38,9 +38,9 @@
 
 ## 🐱 My Github Data
 
-> 🏆 Total 282 Contributions
+> 🏆 Total 278 Contributions
  > 
-> 📜 51 Public Repositories
+> 📜 43 Public Repositories
  > 
 > 🔑 2 Private Repositories 
 

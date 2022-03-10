@@ -8,7 +8,7 @@
 
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/AyushiPanth/count.svg)
-### <div align="center">Hi, I'm Ayushi Panth, a sophomore at IIIT Lucknow, India. 🚀</div>
+### <div align="center">Hi, I'm Ayushi Panth, a pre-final year student at IIIT Lucknow, India. 🚀</div>
 
 
 <p align="center">
